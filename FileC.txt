@@ -5,4 +5,8 @@ this is line 2
 this is line 3
 this is line 4
 this is line 5
+<<<<<<< HEAD
 this is line 7
+=======
+this is line 6
+>>>>>>> d21e6c736f76fbd1f6d010c6ff13270c431711e7
